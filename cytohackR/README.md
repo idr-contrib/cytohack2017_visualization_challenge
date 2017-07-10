@@ -4,7 +4,7 @@ NAME
 Participants
 ------------
 
-Name, GitHub user, etc
+Christian, Marie, Joerg, Shantanu, Becka, Sebastian
 
 Description
 -----------
